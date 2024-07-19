@@ -332,7 +332,6 @@
             {
               "label": "HIV disease resulting in other malignant neoplasms",
               "type": "obs",
-              "required": true,
               "questionOptions": {
                 "rendering": "select",
                 "concept": "efd206db-ed68-4ac3-8916-da524f029643",
@@ -491,7 +490,6 @@
             {
               "label": "HIV disease resulting in infectious & parasitic diseases",
               "type": "obs",
-              "required": true,
               "questionOptions": {
                 "rendering": "select",
                 "concept": "1c06de20-fbc0-4d42-a638-f273e5db2146",

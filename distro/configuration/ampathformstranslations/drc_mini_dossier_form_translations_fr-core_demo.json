@@ -1,0 +1,29 @@
+{
+  "uuid": "515b2e59-29f2-455d-b170-7aca8ae979cc",
+  "form": "DRC Mini Dossier",
+  "description": "French Translations for 'DRC Mini Dossier' form as a demo example for PATH DRC on how to translate forms",
+  "language": "fr",
+  "translations": {
+    "Psychosocial Care": "____",
+    "Interventions": "____",
+    "Need an intervention",
+    "Yes": "____",
+    "No": "____",
+    "Type of psychological  intervention": "____",
+    "Family support": "____",
+    "Home visit requested by health facility": "____",
+    "Legal services": "____",
+    "Nutritional support": "____",
+    "Other": "____",
+    "Patient education": "____",
+    "Psychosocial counseling": "____",
+    "Prophylaxis IO": "____",
+    "Medicines": "____",
+    "Cotrimoxazole start date": "____",
+    "Cotrimoxazole stop date": "____",
+    "Reason for stopping Cotrimoxazole": "____",
+    "Fluconazole start date": "____",
+    "Fluconazole stop date": "____",
+    "Reason for stopping Fluconazole": "____"
+  }
+}
